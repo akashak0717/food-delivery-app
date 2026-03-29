@@ -3,7 +3,7 @@
 A responsive food delivery frontend web application built with **React JS**, containerized using **Docker**, and deployed locally using **Kubernetes (Minikube)**.
 
 ## 🌐 Live Demo
-👉 [Coming soon on Netlify]
+👉 [\[Coming soon on Netlify\]](https://tomato-food-delivery-akash.netlify.app/)
 
 ## 🚀 Features
 - 🛍️ Browse food items by category
