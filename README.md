@@ -70,5 +70,5 @@ food-delivery-app/
 
 ## 👨‍💻 Author
 **Akash Aralikatti**
-- GitHub: https://github.com/akashak0717/food-delivery-app.git
+- GitHub: https://github.com/akashak0717/DevOps-Project-02.git
 - LinkedIn: www.linkedin.com/in/akasharalikatti0717
